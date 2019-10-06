@@ -1,0 +1,10 @@
+G:\WinFormApp (Сентябрь)\Voice_Project_0\bin\Debug\Voice_Project_0.exe.config
+G:\WinFormApp (Сентябрь)\Voice_Project_0\bin\Debug\Voice_Project_0.exe
+G:\WinFormApp (Сентябрь)\Voice_Project_0\bin\Debug\Voice_Project_0.pdb
+G:\WinFormApp (Сентябрь)\Voice_Project_0\obj\Debug\Voice_Project_0.csprojAssemblyReference.cache
+G:\WinFormApp (Сентябрь)\Voice_Project_0\obj\Debug\Voice_Project_0.Form1.resources
+G:\WinFormApp (Сентябрь)\Voice_Project_0\obj\Debug\Voice_Project_0.Properties.Resources.resources
+G:\WinFormApp (Сентябрь)\Voice_Project_0\obj\Debug\Voice_Project_0.csproj.GenerateResource.cache
+G:\WinFormApp (Сентябрь)\Voice_Project_0\obj\Debug\Voice_Project_0.csproj.CoreCompileInputs.cache
+G:\WinFormApp (Сентябрь)\Voice_Project_0\obj\Debug\Voice_Project_0.exe
+G:\WinFormApp (Сентябрь)\Voice_Project_0\obj\Debug\Voice_Project_0.pdb
